@@ -1,1 +1,3 @@
 D:\Program Files\msysgit\msysgit\bin
+
+git clone http://10.43.174.188:8081/train
